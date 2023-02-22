@@ -1,0 +1,7 @@
+.prueba{
+    background-color: blue !important;
+}
+
+.prueba:hover{
+    background-color: green !important;
+}
